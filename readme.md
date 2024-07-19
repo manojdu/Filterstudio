@@ -19,21 +19,25 @@ FilterStudio is a Python-based application that applies various artistic filters
 To get started with FilterStudio, follow these steps:
 
 1. **Clone the repository.**
-
+   ```bash
    git clone https://github.com/manojdu/FilterStudio.git
+
+2. **Navigate to the project directory.**
+   ```bash
    cd FilterStudio
 
-2. **Install dependencies.**
-
-  pip install -r requirements.txt
+3. **Install dependencies.**
+   ```bash
+   pip install -r requirements.txt
 
    Make sure you have `opencv-python`, `numpy`, `Pillow`, and `tkinter` installed.
+
    If you don't have them, run `pip install opencv-python numpy Pillow tkinter`.
 
-3. **Run the application.**
-
-  python main.py
-
+4. **Run the application.**
+   ```bash
+   python main.py
+  
 ## Usage
 
 - **Launch the application**: Run `main.py` to start the FilterStudio GUI.
