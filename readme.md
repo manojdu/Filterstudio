@@ -27,14 +27,16 @@ To get started with FilterStudio, follow these steps:
    cd FilterStudio
 
 3. **Install dependencies.**
-   ```bash
-   pip install -r requirements.txt
 
    Make sure you have `opencv-python`, `numpy`, `Pillow`, and `tkinter` installed.
 
-   If you don't have them, run `pip install opencv-python numpy Pillow tkinter`.
+   If you don't have them, run 
+
+   ```bash
+   pip install opencv-python numpy Pillow tkinter
 
 4. **Run the application.**
+
    ```bash
    python main.py
   
@@ -62,9 +64,6 @@ To get started with FilterStudio, follow these steps:
 
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -77,3 +76,4 @@ For questions or inquiries, please contact:
 
 - **Email**: dumanoj2003@gmail.com
 - **GitHub**: [manojdu](https://github.com/manojdu)
+- **Linkedin**:[manojdu](https://www.linkedin.com/in/manojdu2003/)
