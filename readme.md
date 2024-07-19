@@ -28,6 +28,8 @@ To get started with FilterStudio, follow these steps:
   pip install -r requirements.txt
 
    Make sure you have `opencv-python`, `numpy`, `Pillow`, and `tkinter` installed.
+   If you don't have them, run `pip install opencv-python numpy Pillow tkinter`.
+
 3. **Run the application.**
 
   python main.py
